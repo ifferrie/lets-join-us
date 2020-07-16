@@ -22,8 +22,7 @@ Install stable nodeJS
 
 Clone this repository:
 ```
-git clone git@github.com:screencloud/test-saowaluk.git
-cd test-saowaluk
+git clone git@github.com:ifferrie/lets-join-us.git
 ```
 Install JavaScript dependencies:
 ```
